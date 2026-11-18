@@ -1,0 +1,15 @@
+GITHUB'A YÜKLEME (Semanur'un hesabı)
+
+1) github.com'a Semanur'un hesabıyla girin.
+2) Sağ üstteki "+" → "New repository".
+   Repository name: bir-nefes-bin-nefis-destek
+   "Public" seçin → "Create repository".
+3) Açılan sayfada "uploading an existing file" bağlantısına tıklayın.
+   Bu ZIP'ten çıkan tüm dosyaları sürükleyip bırakın → "Commit changes".
+4) Depoda Settings → Pages:
+   Source: "Deploy from a branch", Branch: "main", klasör: "/ (root)" → Save.
+5) 1–2 dakika sonra şu adres açılmalı:
+   https://semagulcan.github.io/bir-nefes-bin-nefis-destek/
+
+Kullanıcı adı "semagulcan" değilse veya depoya başka ad verdiyseniz,
+uygulamadaki App.js dosyasının başındaki LEGAL_BASE satırını yeni adresle değiştirin.
